@@ -88,7 +88,7 @@ f(head, line_counter);
  * @i: counter
  * @line_counter: command lin number
  * @commands: tokenized line
- * @buffer2: tokens iterator
+ * @buf2: tokens iterator
  * @head: pointer to list
  */
 

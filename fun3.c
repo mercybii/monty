@@ -33,7 +33,6 @@ void mul(stack_t **stack, unsigned int line_number)
 
 /**
  * mod - returns whats left of division of top two elements,
- * 
  *
  * @stack: poiunter to list
  * @line_number: number of line where command was found
