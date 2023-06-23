@@ -1,6 +1,6 @@
 #include "monty.h"
 #include "commads.h"
-
+#include "prototyp.h"
 
 /**
  * select_command - function pointer to check for command

@@ -1,5 +1,7 @@
 #include "monty.h"
 #include "commads.h"
+#include "prototyp.h"
+
 
 /**
  * main - interprets a monty files

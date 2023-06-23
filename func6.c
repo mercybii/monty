@@ -1,6 +1,6 @@
 #include "monty.h"
 #include "commads.h"
-
+#include "prototyp.h"
 /**
  * file_open - opens bytecode file
  * @argc: argument counter
